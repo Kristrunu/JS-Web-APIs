@@ -1,0 +1,26 @@
+html {
+    max-width: 100%;
+    background-color: #ebf1f5;
+}
+
+body {
+    border-radius: 2rem;
+    margin: 2rem;
+    padding: 2rem 2rem 3rem 2rem;
+}
+
+h1 {
+  color: #191837;
+}
+
+.fa-book-open {
+  color: #B2C8DF;
+}
+
+.form-control {
+    border-radius: .5rem;
+}
+
+.btn {
+    border-radius: .5rem;
+}
